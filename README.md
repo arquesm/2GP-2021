@@ -3,6 +3,8 @@ Recursos Interactius aplicats a la Gràfica Publicitària 2020/2021
 
 Escola d'Art i Superior de Disseny d'Alcoi
 
+Magda Arques Castelló - arquesm@easdalcoi.es 
+
 ## Alumnes
 
 ### Grup A
