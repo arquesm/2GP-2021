@@ -47,6 +47,10 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 
 * [FreecodeCamp](https://www.freecodecamp.org/learn). Responsive Web Design Certification. HTML & CSS
 
+## Webs de recursos
+
+* [w3school](https://www.w3schools.com/)
+
 ## Projectes a realitzar
 
 <ol>
