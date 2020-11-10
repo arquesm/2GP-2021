@@ -47,6 +47,8 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 
 * [FreecodeCamp](https://www.freecodecamp.org/learn). Responsive Web Design Certification. HTML & CSS
 
+* Document que inclou una imatge dels elements mínims necessaris i el document html elaborat a classe [p1_webtreballsclasse](p1_webtreballsclasse.zip)
+
 ## Webs de recursos
 
 * [w3school](https://www.w3schools.com/)
