@@ -56,6 +56,8 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 ## UX/UI
 
 * [6 principios fundamentales de UX que debes conocer](https://adriansolca.medium.com/6-principios-fundamentales-de-ux-que-debes-conocer-6ddff96b61ad)
+* [Dualidad web y elementos de la experiencia de usuario](https://medium.com/@florferretto/dualidad-web-y-elementos-de-la-experiencia-de-usuario-2dfe26682e04)
+* 
 
 
 ## Projectes a realitzar
