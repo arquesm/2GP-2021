@@ -53,6 +53,11 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 
 * [w3school](https://www.w3schools.com/)
 
+## UX/UI
+
+* [6 principios fundamentales de UX que debes conocer](https://adriansolca.medium.com/6-principios-fundamentales-de-ux-que-debes-conocer-6ddff96b61ad)
+
+
 ## Projectes a realitzar
 
 <ol>
